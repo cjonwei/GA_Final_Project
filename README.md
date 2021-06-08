@@ -2,7 +2,15 @@
 
 ## Introduction
 
-This project aims to better understand the content available on Netflix as of 2020.
+This project aims to better understand the content available on Netflix.
+
+Netflix is one of the world's leading entertainment services with a market cap of USD 219.37bn, 208 million paid memberships in over 190 countries enjoying TV series, documentaries and feature films across a wide variety of genres and languages.
+
+Members can watch as much as they want, anytime, anywhere, on any internet-connected screen. Members can play, pause and resume watching, all without commercials or commitments.
+
+But what is on Netflix?
+
+To better understand this, lets dive into some high level analysis of the dataset obtained from kaggle.com. The dataset contains information as per the Data Dictionary below.
 
 ## Data Dictionary
 
@@ -23,19 +31,8 @@ This project aims to better understand the content available on Netflix as of 20
 
 *************************************************************************************************
 
-
- 
-*************************************************************************************************
-
-
-
-
-*************************************************************************************************
-
 ## Important Links
 
 * [Final Report Notebook](report.ipynb)
 * [EDA Notebook](eda.ipynb)
-* [Link 1](http://www.google.com) - Some cool stuff
-* [Link 2](http://www.google.com) - More cool stuff
-* [Link 3](http://www.google.com) - Even more cool stuff
+* [Data Source](https://www.kaggle.com/shivamb/netflix-shows) - Data was obtained here.
